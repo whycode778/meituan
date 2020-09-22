@@ -13,3 +13,8 @@ vue.js meituan
 ![image](https://github.com/whycode778/meituan/blob/master/img/Snipaste_2020-09-23_02-38-02.png)
 ![image](https://github.com/whycode778/meituan/blob/master/img/Snipaste_2020-09-23_02-38-52.png)
 ![image](https://github.com/whycode778/meituan/blob/master/img/Snipaste_2020-09-23_02-39-05.png)
+![image](https://github.com/whycode778/meituan/blob/master/img/Snipaste_2020-09-23_02-39-18.png)
+![image](https://github.com/whycode778/meituan/blob/master/img/Snipaste_2020-09-23_02-39-30.png)
+![image](https://github.com/whycode778/meituan/blob/master/img/Snipaste_2020-09-23_02-39-50.png)
+![image](https://github.com/whycode778/meituan/blob/master/img/Snipaste_2020-09-23_02-40-11.png)
+![image](https://github.com/whycode778/meituan/blob/master/img/Snipaste_2020-09-23_02-40-21.png)
