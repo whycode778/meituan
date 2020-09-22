@@ -5,4 +5,4 @@ vue.js meituan
 项目展示：
 ![image](https://github.com/whycode778/meituan/blob/master/img/Snipaste_2020-09-23_02-37-15.png)
 ![image](https://github.com/whycode778/meituan/blob/master/img/Snipaste_2020-09-23_02-38-02.png)
-![image]
+![image](https://github.com/whycode778/meituan/blob/master/img/Snipaste_2020-09-23_02-38-52.png)
